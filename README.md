@@ -1,1 +1,1 @@
-
+The task aims at training a deep neural network to classify common flowers in HK. The source photos come from google images. Resizing and augmentation are performed to standardize and increase input samples. A convolutional neural network (“CNN”) model is trained initially, followed by varying parameters in order to reduce overfitting and increase accuracy. In the end, a 3-convoution layer CNN works well for this task, with accuracy on test samples at 91%, improved from 63% in initial model. 
